@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="24">
+      <Unit0>
+        <Filename Value="wioWvWeb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="42" Y="8"/>
+        <UsageCount Value="74"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uwiobrowser.pas"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="205"/>
+        <CursorPos X="56" Y="295"/>
+        <UsageCount Value="74"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\source\uWVBrowser.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\source\uWVConstants.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\source\uWVCoreWebView2Args.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\source\uWVInterfaces.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\source\uWVLibFunctions.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\source\uWVLoader.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="307"/>
+        <CursorPos X="69" Y="327"/>
+        <UsageCount Value="74"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\source\uWVTypeLibrary.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\source\uWVTypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\..\source\uWVWinControl.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\..\source\uWVWindowParent.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="74"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="utools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="460"/>
+        <CursorPos Y="122"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="umessage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MessageForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="40" Y="53"/>
+        <UsageCount Value="53"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="uwmi.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="13"/>
+        <UsageCount Value="24"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3928"/>
+        <CursorPos Y="3945"/>
+        <UsageCount Value="9"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\Users\Walter\AppData\Local\lazarus\onlinepackagemanager\packages\lnet\lib\lnet.pp"/>
+        <UnitName Value="lNet"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1076"/>
+        <CursorPos Y="1093"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="d:\Downloads\WebView4Delphi\packages\webview4delphi.pas"/>
+        <UnitName Value="WebView4Delphi"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="9"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="d:\Downloads\bkutils-master\bkutils.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="9"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\components\lazutils\lazstringutils.pas"/>
+        <UnitName Value="LazStringUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos Y="128"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2312"/>
+        <CursorPos Y="2330"/>
+        <UsageCount Value="9"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\lcl\interfaces\win32\win32wscontrols.pp"/>
+        <UnitName Value="Win32WSControls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="203"/>
+        <CursorPos Y="219"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="utils.pas"/>
+        <UnitName Value="Utils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="19" Y="1248"/>
+        <UsageCount Value="19"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="uwiowvweb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit23>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="wioWvWeb.pas"/>
+        <Caret Line="8" Column="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uwiowvweb.pas"/>
+        <Caret Column="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="wioWvWeb.pas"/>
+        <Caret Line="8" Column="42"/>
+      </Position3>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
